@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 14-04-2023)",
+    "author": "chuky (Actualizada al 15-04-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "Chukycine",
@@ -19,22 +19,22 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Miami Heat - Chicago Bulls",
+			"name": "Philadelphia 76ers vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Minnesota Timberwolves - Oklahoma City Thunder",
+                        "name": "Boston Celtics vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Cleveland Cavaliers vs New York Knicks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Sacramento Kings vs Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
@@ -104,24 +104,24 @@
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                }, {
-			"name": "Miami Heat - Chicago Bulls",
+			"name": "Philadelphia 76ers vs Brooklyn Nets",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url" : "http://sportsurge.stream/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Minnesota Timberwolves - Oklahoma City Thunder",
+                        "name": "Boston Celtics vs Atlanta Hawks",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba1.php",
+			"isHost": "true"
+               }, {  
+                        "name": "Cleveland Cavaliers vs New York Knicks",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba1.php",
+			"isHost": "true"
+               }, {  
+                        "name": "Sacramento Kings vs Golden State Warriors",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url" : "http://sportsurge.stream/embed/nba2.php",
-			"isHost": "true"
-               }, {  
-                        "name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba3.php",
-			"isHost": "true"
-               }, {  
-                        "name": "",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba4.php",
 			"isHost": "true"
               }, {
 			"name": "",
@@ -194,7 +194,7 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "",
+			"name": "Houston - D.C.",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
@@ -354,7 +354,7 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Diamondbacks - Marlins",
+                        "name": "Twins @ Yankees",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
@@ -364,67 +364,67 @@
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
               }, {
-			"name": "Phillies - Reds",
+			"name": "Orioles @ White Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
              }, {
-			"name": "Twins - Yankees",
+			"name": "Pirates @ Cardinals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {  
-                         "name": "Guardians - Nationals",
+                         "name": "Rays @ Blue Jays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
               }, {
-			"name": "Rays - Blue Jays",
+			"name": "Guardians @ Nationals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Orioles - White Sox",
+			"name": "Brewers @ Padres",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
              }, {
-			"name": "Angels - Red Sox",
+			"name": "Mets @ Athletics",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
               }, {
-			"name": "Braves - Royals",
+			"name": "Phillies @ Reds",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-09/",
 			"isHost": "true"
                }, {
-			"name": "Rangers - Astros",
+			"name": "Diamondbacks @ Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                }, {
-			"name": "Pirates - Cardinals",
+			"name": "Angels @ Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"
                  }, {
-			"name": "Mets - Athletics",
+			"name": "Braves @ Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true"  
 			}, {
-			"name": "Brewers - Padres",
+			"name": "Rangers @ Astros",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Rockies - Mariners",
+			  "name": "Cubs @ Dodgers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true"
                           }, { 
-			  "name": "Cubs - Dodgers",
+			  "name": "Rockies @ Mariners",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true" 
@@ -487,59 +487,59 @@
 		"info": "",
 		"stations": [{
 			"name": "La de España (opción 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
         		 "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
             "referer": "https://buzztv.futbol/",
 			"isHost": "true"
                           }, {
 			"name": "La de España (opción 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			  "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	              }, {
 			"name": "La de España (opción 3)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			"url" : "https://unbiasedsenseevent.com/embed/u2sgi0?skin=1",
 			 "referer": "https://l1l1.to/",
              "isHost": "true"  
                      }, {
 			"name": "La de España (opción 4)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 		        "url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
 			"referer": "https://elixx.xyz/",
 			"isHost": "true"
                     }, {
 			"name": "La de España (opción 5)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
 			"referer": "https://streamonsport.ru/",
 			"isHost" : "true"
                           }, {
 			"name": "La de España (opción 6)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			        "url": "https://sportskart.click/embed/stream-84.php",
 			"isHost" : "true"
 			 }, {
 			"name": "La de España (opción 7)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			 "url": "https://strayindicate.net/embed/2twhx",
 			"referer": "https://1rowsportz.info/",
 			"isHost" : "true" 
 	          }, {
 			"name": "La de España (opción 8)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			 "url": "https://voraciousglove.net/embed/zbz7klq",
 			"referer": "https://1stream.buzz/",
 			"isHost" : "true"
 			 }, {
 			"name": "La de España (opción 9)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			 "url": "https://emb.apl204.me/player/live.php?id=210690&w=100%&h=100%",
 			"isHost" : "true" 
 			 }, {
 			"name": "La de España (opción 10)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			       "url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
                                "referer": "https://sportz.football/",
                   "isHost": "true"
@@ -550,64 +550,64 @@
             "info": "",
             "stations": [{
 	         "name": "Opción 1(M-Deportes)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
                 "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
 	        "referer" : "https://macron.xyz/",
                   "isHost": "true"
                 },{ 
                     "name": "Opción 2(M-Deportes)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
                "url": "http://desastre3.deficoin.life/play/deportes/index.m3u8",
              "userAgent": ""
                 },{
-                 "name": "Opción 3(V-mos)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                 "name": "Opción 3(M-Vamos)",
+                    "image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
                "url" : "https://embx211012.apl217.me/player/live.php?id=211012&w=100%&h=100%",
              "isHost":"true"
                     },{ 
-                 "name": "Opción 4(V-mos)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                 "name": "Opción 4(M-Vamos)",
+                    "image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
                "url" : "https://parsimoniousinvincible.net/embed/rq4g6",
 	        "referer" : "https://macron.xyz/",
             "isHost":"true"
                      },{
                      "name": "Opción 7(M-Deportes 2)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/wscdBMn/deportes-2.jpg",
                  "url": "https://parsimoniousinvincible.net/embed/105qqn",
                   "referer" : "https://macron.xyz/",
 			 "isHost": "true"
                       },{
                      "name": "Opción 8(M-Deportes 2)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/wscdBMn/deportes-2.jpg",
              "url": "https://emb.apl223.me/player/live.php?id=209096&w=100%&h=100%",
              "isHost": "true"
 			 },{
                      "name": "Opción 9(M-Deportes 3)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/LZj5KWw/deportes-3.jpg",
                  "url": "https://parsimoniousinvincible.net/embed/dp4tigbdvjxr4l",
                   "referer" : "https://macron.xyz/",
 			 "isHost": "true" 
                       },{
                      "name": "Opción 10(M-Deportes 3)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/LZj5KWw/deportes-3.jpg",
                   "url": "https://assia24.com/live/gol-tv/?lang=",
              "isHost": "true"
 			 },{
                      "name": "Opción 11(M-Deportes 4)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/dPbzX3w/deportes-4.jpg",
                  "url": "https://parsimoniousinvincible.net/embed/dxcfd934ttzx",
                   "referer" : "https://macron.xyz/",
 			 "isHost": "true" 
 			 },{
                      "name": "Opción 12(M-Deportes 4)",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/dPbzX3w/deportes-4.jpg",
                  "url": "https://godzillive.com/footy.php?player=desktop&live=ufeed70",
                   "referer" : "https://1rowsportz.info/",
 			 "isHost": "true" 
                   }]
               },{
-            "name": "Zona DANZAN",
-            "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+            "name": "Los DANZAN",
+            "image": "https://i.ibb.co/p1g0TzN/Dazan.jpg",
             "info": "",
             "stations": [{
               "name": "Algunas compañias no lo reproducen",
@@ -616,117 +616,117 @@
                "isHost" : "true"
 	          }, {
                  "name": "DANZAN La de España",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
                   "url": "https://voraciousglove.net/embed/zbz7klq",
 			"referer": "https://1stream.buzz/",
 			"isHost" : "true"
                        }, {
                     "name": "DANZAN La de España",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
 			 "url": "https://embx202281.apl202.me/player/live.php?id=210570&w=100%&h=100%",
 			"isHost" : "true" 
                         }, {
                  "name": "DANZAN 1",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
                               "url" : "http://desastre3.deficoin.life/play/DANZAN1/index.m3u8",
                     "userAgent" : ""
                        }, {
                     "name": "DANZAN 1",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
 			    "url": "https://vikistream.com/embed2.php?player=desktop&live=do27",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	               }, {
                     "name": "DANZAN 1",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
 			 "url" : "https://starlive.xyz/embed.php?id=liveDANZAN1_ES",
              "embed": "true"
 			}, {
                     "name": "DANZAN 1",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
 	         "url":"https://sportskart.click/embed/stream-445.php",
             "isHost" : "true"
                       }, {
 			"name": "DANZAN 1",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
 			 "url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
 			 },{ 
                  "name": "DANZAN 2",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
              "url" : "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
                     },{ 
                  "name": "DANZAN 2",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
               "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                     },{ 
                  "name": "DANZAN 2",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
                    "url": "https://sportskart.click/embed/stream-446.php",
              "isHost": "true"
 	           },{ 
                  "name": "DANZAN 2",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
                                   "url":"https://emb.apl217.me/player/live.php?id=210937&w=100%&h=100%",
             "isHost" : "true"
                     },{ 
                  "name": "DANZAN 2",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/p4p6c5t/Dazan-2.jpg",
                    "url" : "https://wecast.to/onionstream.php?stream=xmr0xxbbmzod",
 			   "referer": "https://onionstream.live/",
              "isHost": "true"
 		     },{ 
                  "name": "DANZAN 3",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
               "url": "https://sportskart.click/embed/stream-447.php",
              "isHost": "true"   
                     },{ 
                  "name": "DANZAN 3",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
                       "url": "https://vikistream.com/embed2.php?player=desktop&live=do19",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                     },{ 
                  "name": "DANZAN 3",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
                      "url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
             "referer" : "https://macron.xyz/",
             "isHost":"true"  
                    },{ 
                  "name": "DANZAN 3",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
                                  "url":"https://assia24.com/live/mix-sport5/?lang=es",
             "isHost" : "true"
 	           },{ 
                  "name": "DANZAN 3",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/QnfgmsV/Dazan-3.jpg",
                      "url": "https://emb.apl217.me/player/live.php?id=209729?&w=100%&h=100%",
              "isHost": "true" 
 	          },{ 
                  "name": "DANZAN 4",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/VN40My9/Dazan-4.jpg",
                       "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                  },{ 
                  "name": "DANZAN 4",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/VN40My9/Dazan-4.jpg",
                       "url": "https://embx210976.apl217.me/player/live.php?id=210976?&w=100%&h=100%",
              "isHost": "true"
                        },{ 
                  "name": "DANZAN 4",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/VN40My9/Dazan-4.jpg",
                    "url": "https://parsimoniousinvincible.net/embed/qkduopi8remo1q",
             "referer" : "https://macron.xyz/",
             "isHost":"true"
                      },{ 
                  "name": "DANZAN 4",
-                    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                    "image": "https://i.ibb.co/VN40My9/Dazan-4.jpg",
                      "url": "https://sportskart.click/embed/stream-84.php",
            "isHost" : "true"
 		}]
@@ -740,17 +740,17 @@
 			 "url" : "https://upstream.to/2rc9ml0f9y9o",
 			"userAgent": "true"  
 			  }, {
-          "name": "Manujaz MotoRSport Coche 1 (Android)",
+          "name": "Manujaz MotoRSport M-F1 (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
 			  "url": "https://vkvsd16.mycdn.me/hls/3971713272346.m3u8/sig/7FLvZijxRlQ/expires/1680500924403/srcIp/37.14.131.253/urls/185.226.53.47/clientType/13/srcAg/CHROME_ANDROID/mid/4843857783578/3971713272346_fullhd/index.m3u8",
                            "userAgent" : " "
                          }, {
-          "name": "Manujaz MotoRSport Coche 1 (Iphone)",
+          "name": "Manujaz MotoRSport M-F1 (Iphone)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
 			  "url": "https://vkvsd38.mycdn.me/hls/3728780036835.m3u8/sig/DFkxsjQReVw/expires/1679235355855/srcIp/84.78.253.12/urls/185.226.52.48/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4506118728675/3728780036835_high/index.m3u8",
                            "userAgent" : " "
                              }, {
-          "name": "Manujaz MotoRSport Nascar",
+          "name": "Manujaz MotoRSport NASCAR",
 			"image": "https://i.ibb.co/z8yPmxP/manu-nascar.jpg",
 			  "url": "https://vkvsd62.mycdn.me/hls/3877063166490.m3u8/sig/BvUFPRgoBhY/expires/1679609244387/srcIp/37.14.131.253/urls/185.226.53.64/clientType/13/srcAg/CHROME_ANDROID/mid/4763674225434/3877063166490_fullhd/index.m3u8",
                            "userAgent" : " "
@@ -767,68 +767,68 @@
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                        }, {
-          "name": "Coche 1",
+          "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			       "url": "https://wecast.to/popy.php?stream=RdKfpotjL5g",
                            "referer" : "https://livetvstream.pro/",
                              "isHost":"true"
               }, {
-          "name": "Coche 1",
+          "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			       "url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
               }, {
-          "name": "Coche 1",
+          "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			"url": "http://desastre3.deficoin.life/play/Coche1/index.m3u8",
 			 "userAgent":""
 	     }, {
-                  	"name": "Coche 1",
+                  	"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
                   			      "url": "https://daddylivehd.com/mylivetv/stream-537.php",
                "referer": "https://www.freeshot.live/",
 			"isHost": "true"
 		}, {
-                  	"name": "Coche 1",
+                  	"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
                   	"url" : " https://www.freeshot.live/live-tv/DANZAN-f1/241",
 			"isHost": "true" 	
           }, {
-          "name": "Coche 1",
+          "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			"url": "https://parsimoniousinvincible.net/embed/r23llp",
             "referer" : "https://streamonsport.ru/",
 			 "isHost":"true"
 		 }, {
-          "name": "Coche 1",
+          "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			"url": "https://tvhd.capshd.xyz/online/DANZANf1.php",
             "referer" : "https://www.daddylive.pro/",
 			 "isHost":"true"
                     }, {   
-			"name": "Coche 1",
+			"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
               "url": "https://watchtvchh.xyz/channel/ch018001.php", 
 			 "isHost":"true"  	 
                }, {   
-			"name": "Coche 1",
+			"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
               "url": "https://starlive.xyz/embed.php?id=liveF1_ES",
 			 "embed":"true"  
 		 }, {
-                  	"name": "Coche 1",
+                  	"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
                   	"url" : "https://unbiasedsenseevent.com/embed/phsheh97kpcdvc2",
             "referer": "https://buzztv.futbol/",
 			"isHost": "true"	 
         }, {
-			"name": "Coche 1-Inglés",
+			"name": "M-F1-Inglés",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
             "url" : "http://sportsurge.stream/embed/f1.php",
 			"isHost": "true"
 		}, {
-			"name": "Coche 1-Inglés",
+			"name": "M-F1-Inglés",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
             "url" : "https://www.soccerstreams.football/news/03-03/Coche-march-3/",
 			"userAgent": "navigator"
@@ -854,45 +854,40 @@
                        "userAgentet" : " "
 	             }, {
 			"name": "Moto",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
              "url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
-                    }, {
-			"name": "Moto",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
-            "url" : "http://desastre3.deficoin.life/play/DANZAN1/index.m3u8",
-			"userAgent": ""
                       }, {
 			"name": "Moto",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
            "url": "https://unbiasedsenseevent.com/embed/ez3sjcbvjr4",
 			"referer": "https://elixx.xyz/",
 			"isHost": "true"
                       }, {
 			"name": "Moto",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
            "url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
                     }, {
 			"name": "Moto",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
-             "url":"https://starlive.xyz/embed.php?id=liveDAZN1_ES",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
+             "url":"https://starlive.xyz/ch/dazn1es.php",
 			"embed" : "true"
 	              }, {
 			"name": "Moto",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
              "url" : "https://web.ucplayer1.com/bff3gbgfff",
              "isHost": "true"
           }, {
 			"name": "Moto (inglés)",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
 			"url": "https://headlines.soccerstreams.football/sat-Coche-australian-2023/",
 			 "isHost":"true"
 		 }, {
 			"name": "Moto (Inglés)",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
 			 "url": "https://ragnaru.net/embed2.php?player=desktop&live=do2",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
@@ -902,102 +897,102 @@
 		"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 		"info": "",
 		"stations": [{
-			"name": "(V-mos)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"name": "(M-Vamos)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			     "url": "https://parsimoniousinvincible.net/embed/rq4g6",
 			 "referer":"https://macron.xyz/",
                     "isHost":"true"
             }, {
-			"name": "(V-mos)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"name": "(M-Vamos)",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			    "url" : "https://sportskart.click/embed/stream-521.php",
                           "isHost":"true"
             }, {
 			"name": "(M-Campeones)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
 			 }, {
 			"name": "(M-Campeones)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			 "url": "https://kepa.pw/abed.php?file=ligadecampeonesbahia",
 			"referer": "https://bahiadeportes.com/",
 			"isHost" : "true"
 		 }, {
 			"name": "(M-Campeones 2)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones 2)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
 	      }, {
 			"name": "(M-Campeones 2)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones 2)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
 	          }, {
 			"name": "(M-Campeones 3)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/gagr8b",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones 3)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			 "url": "https://parsimoniousinvincible.net/embed/gagr8b",
 			"referer": "https://macron.xyz/",
 			"isHost" : "true"
              }, {
 			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
           }, {
-			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"name": "Eintracht Frankfurt vs Borussia M'gladbach",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
 	   }, {
 			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://vikistream.com/embed2.php?player=desktop&live=do16",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
           }, {
 			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://vikistream.com/embed2.php?player=desktop&live=do12",
             "referer" : "https://l1l1.to/",
              "isHost": "true"
            }, {
 			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
             "referer" : "https://l1l1.to/",
              "isHost": "true"
@@ -1008,187 +1003,199 @@
 		"info": "",
 		"stations": [{
 	                "name": "(DANZAN 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			 "url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"  
                }, {
 			"name": "(DANZAN 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			    "url": "http://desastre3.deficoin.life/play/DANZAN1/index.m3u8",
            "userAgent" : ""
 	      }, {
 			"name": "(DANZAN 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                   }, {
 			"name": "(DANZAN 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			   "url": "http://desastre3.deficoin.life/play/DANZAN1/index.m3u8",
            "userAgent" : ""
                 }, {
 			"name": "(DANZAN 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			  "url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
                 }, {
 			"name": "(DANZAN 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			    "url":"https://sportskart.click/embed/stream-445.php",
             "isHost" : "true"
                 }, {
 			"name": "(DANZAN 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			   "url":"https://sportskart.click/embed/stream-446.php",
             "isHost" : "true"
             }, {
 			"name": "(DANZAN 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
                 }, {
 			"name": "(DANZAN 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			   "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
             }, {
 			"name": "(DANZAN 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 	      
                 }, {
 			"name": "(DANZAN 3)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
             "referer" : "https://macron.xyz/",
             "isHost":"true"
 	       }, {
  			"name": "(DANZAN 3)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			  "urs" : "https://sportskart.click/embed/stream-447.php",
 			"isHost" : "true"
                 }, {
 			"name": "(DANZAN 3)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			"url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
             "referer" : "https://macron.xyz/",
             "isHost":"true"
                }, {
 			"name": "(DANZAN 4)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			"url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
 			  }, {
 			"name": "(DANZAN 4)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
        "urs" : "https://sportskart.click/embed/stream-448.php",
 			"isHost" : "true"
 	            }, {
 			"name": "(DANZAN 4)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do32",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	          }, {
 			"name": "(DANZAN 4)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do34",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	            }, {
 			"name": "(DANZAN 4)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
        "url": "https://unbiasedsenseevent.com/embed/n09ipt12zu",
               "referer": "https://1l1l.to/",
              "isHost": "true"
+                     }, {
+			"name": "Manchester City vs Leicester City(Extranjero)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+      "url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
+                       }, {
+			"name": "Manchester City vs Leicester City(Extranjero)",
+			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do24",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
 		}]
 		}, {
 		"name": "Francia",
 		"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 		"info": "",
 		"stations": [{
- 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+ 			"name": "Rennes vs Reims",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, {
-			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Rennes vs Reims",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
         }, {
-			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "PSG vs Lens",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "PSG vs Lens",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			   "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
                     }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://vikistream.com/embed2.php?player=desktop&live=do2",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 			 }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do18",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 			 }, {
 			 "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
      "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://unbiasedsenseevent.com/embed/pbbue38",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 			 }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	        }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	      }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
@@ -1198,160 +1205,154 @@
 		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 		"info": "",
 		"stations": [{
- 			"name": "(V-mos)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+ 			"name": " Inter Milan vs Monza(M-Vamos)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://parsimoniousinvincible.net/embed/rq4g6",
               "referer" : "https://streamonsport.ru/",
             "isHost":"true"
 		}, {
-			"name": "(V-mos)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": " Inter Milan vs Monza(M-Vamos)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://sportskart.click/embed/stream-521.php",
 			"isHost" : "true"
         }, {
-			"name":"(M-Campeones)",
-                      "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name":"Napoli vs Verona(M-Campeones)",
+                      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
                        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
                       "isHost": "true"
 		}, {
-			"name": "(M-Campeones)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Napoli vs Verona(M-Campeones)",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
                     }, {
 			"name": "(M-Campeones)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
             "isHost": "true"  
 		}, {
 			"name": "(M-Campeones)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			  "url" : "http://desastre3.deficoin.life/play/campeones/index.m3u8",
              "userAgent": "" 
 			 }, {
 			"name": "(M-Campeones)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
 			 }, {
 			 "name": "(M-Campeones)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 		}, {
 			"name": "(M-Campeones)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://utopianwilderness.com/embed/ktpqv1iq2",
 			  "referer" : "https://starlive.xyz/",
 			"isHost" : "true"
 			 }, {
 			"name": "(M-Campeones 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://voraciousglove.net/embed/cmms5rk1",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 	        }, {
 			"name": "(M-Campeones 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://voraciousglove.net/embed/cmms5rk1",
 			 "referer" : "https://streamonsport.ru/",
              "isHost": "true"
 	        }, {
 			"name": "(M-Campeones 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://grosseaffiche.com/footy.php?player=desktop&live=ufeed65",
 			"referer": "https://leet365.cc/",
              "isHost": "true"  
 		}, {
 			"name": "(M-Campeones 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://grosseaffiche.com/footy.php?player=desktop&live=ufeed65",
 			"referer": "https://leet365.cc/",
              "isHost": "true"  
 	       }, {
 			"name": "(M-Campeones 3)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			  "url": "https://parsimoniousinvincible.net/embed/gagr8b",
 			"referer": "https://streamonsport44.buzz/",
              "isHost": "true"
                     }, {
 			"name": "(M-Campeones 3)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://parsimoniousinvincible.net/embed/gagr8b",
 			"referer": "https://streamonsport44.buzz/",
-             "isHost": "true"  
-	           }, {
-			"name": "(M-Campeones 5)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-        "url": "https://parsimoniousinvincible.net/embed/105qqn",
-			"referer": "https://streamonsport44.buzz/",
-             "isHost": "true"  
+             "isHost": "true"
                   }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
      "url": "https://vikistream.com/embed2.php?player=desktop&live=do6",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	        }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do6",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
              }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://parsimoniousinvincible.net/embed/t83h07fpraz",
 			 "referer" : "https://streamonsport.ru/",
              "isHost": "true"
            }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://vikistream.com/embed2.php?player=desktop&live=do3",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	        }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://unbiasedsenseevent.com/embed/ypzz73m5m",
 			 "referer" : "https://1l1l.to/",
              "isHost": "true"
                 }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	       }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do37",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
 			"name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://unbiasedsenseevent.com/embed/ez3sjcbvjr4",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
@@ -1363,73 +1364,73 @@
 		"stations": [{
 		 "name": "",
 			"image": 
-"https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveCh18",
             "embed" : "true"
 		  }, {
               "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveCh19",
             "embed" : "true"
 	           }, {
                         "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveSC",
             "embed" : "true"
           }, {
              "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveB4",
 			"referer" : "https://starlive.xyz/",
             "embed" : "true"
 		 }, {
  			 "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveB5",
             "embed" : "true"
 	       }, {
              "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveB6",
             "embed" : "true"
 		 }, {
  			 "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveB7",
             "embed" : "true"
 	            }, {
              "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveB8",
             "embed" : "true"
 		 }, {
  			 "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveB9",
             "embed" : "true"
 	           }, {
              "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveDANZAN10",
             "embed" : "true"
 		 }, {
  			 "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveDANZAN11",
             "embed" : "true"
 	           }, {
              "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveDANZAN12",
             "embed" : "true"
 		 }, {
  			 "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveDANZAN28",
             "embed" : "true" 
 	         }, {
  			 "name": "",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveDANZAN29",
             "embed" : "true" 
 	     }]
@@ -1438,179 +1439,179 @@
 		"image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
 		"info": "",
 		"stations": [{
-                   "name": "V-mos",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+                   "name": "M-Vamos",
+			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
               			"url" : "https://sportskart.click/embed/stream-521.php",
                           "isHost":"true"
            }, {
- 			"name": "V-mos",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",    
+ 			"name": "M-Vamos",
+			"image": "https://i.ibb.co/FYK4TSS/vamos.jpg",    
             "url": "https://parsimoniousinvincible.net/embed/rq4g6",
 			 "referer":"https://streamonsport.ru/",
                     "isHost":"true"
               }, {
 			"name": "La de España (opción 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
      			 "url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
 			"referer": "https://elixx.xyz/",
 			"isHost": "true"
           }, {
 			"name": "La de España (opción 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
          "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
               "referer": "https://leet365.cc/",
              "isHost": "true"
 		}, {
 			"name": "La de España (opción 3)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			"url": "https://starlive.xyz/embed.php?id=liveESPNDEP", 
              "embed": "true"
               }, {
 			"name": "La de España (opción 4)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			"url" : "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=40",
 			 "referer": "https://l1l1.to/",
              "isHost": "true" 
                                         },{
                  "name": "La de España (opción 5)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
         "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
             "referer": "https://buzztv.futbol/",
 			"isHost": "true"
                    },{
                  "name": "La de España (opción 6)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-         "url": "https://starlive.xyz/embed.php?id=liveL",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+         "url": "https://starlive.xyz/embed.php?id=livebeinMAX7",
 			"embed" : "true"
                   },{
                  "name": "La de España (opción 7)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-        "url" : "https://kepa.pw/abed.php?file=laligatvbahia",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+        "url" : "https://e3mp0v3xclyp2g.trustexploration.com/embed/ed8cxtbybq3x",
             "referer": "https://bahiadeportes.com/",
 			"isHost": "true"
 		}, {
 			"name": "La Segunda de España (op 1)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
 			 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
 			"referer": "https://l1l1.to/",
              "isHost": "true"  
 	      }, {
 			"name": "La Segunda de España (op 2)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
            "url": "https://embx207272.apl197.me/player/live.php?id=207272&w=100%&h=100%",
              "isHost": "true"
 	       }, {
 			"name": "La Segunda de España (op 3)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
 						"url" : "https://parsimoniousinvincible.net/embed/xfkc2i",
 			   "referer" : "https://streamonsport.ru/",
               "isHost" : "true"
                }, {
 			"name": "La Segunda de España (op 4)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
 			 "url": "https://unbiasedsenseevent.com/embed/h0tx31t",
 			"referer": "https://l1l1.to/",
              "isHost": "true"  
                 }, {
 			"name": "La Segunda de España (op 5)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
 			"url": "https://parsimoniousinvincible.net/embed/opthng68di66m",
            "referer": "https://streamonsport.ru/",
              "isHost": "true"
               }, {
 			"name": "La Segunda de España (op 6)",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-			"url" : "https://unbiasedsenseevent.com/embed/3mb8fn",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"  
+			"image": "https://i.ibb.co/wSShNBK/La-liga-2.jpg",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do21",
+			"referer": "https://l1l1.to/",
+             "isHost": "true" 
 		}, {
 			"name": "M-Campeones",
-            "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg", 
+            "image": "https://i.ibb.co/F83JgnB/Campeones.jpg", 
 	 "url" : "http://desastre3.deficoin.life/play/campeones/index.m3u8",
              "userAgent": "" 
                      }, {
 			"name": "M-Campeones",
-            "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg", 
+            "image": "https://i.ibb.co/F83JgnB/Campeones.jpg", 
 	 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
         }, {
 			"name": "M-Campeones",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/F83JgnB/Campeones.jpg",
 			 "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
          }, {
 			"name": "M-Deportes",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
 			"url": "http://desastre3.deficoin.life/play/deportes/index.m3u8",
              "userAgent": ""
 			  }, {  
 			"name": "M-Deportes",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
 			 "url": "https://sportskart.click/embed/stream-436.php",
                   "isHost": "true"
         }, {
 			"name": "M-Deportes",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
 			"url" : "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=26",
 			 "referer": "https://l1l1.to/",
              "isHost": "true"   
                    }, {
 			"name": "M-Deportes 2",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/wscdBMn/deportes-2.jpg",
 			 "url": "https://embx209096.apl214.me/player/live.php?id=209096&w=100%&h=100%",
 			"referer": "https://livetvstream.pro/",
              "isHost": "true" 
          }, {
-			"name": "Gol en la TV",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Gol TV",
+			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
 			 "url": "https://gooals.top/tv/albaplayer/stream-530/?serv=1/",
               "referer" : "https://www.daddylive.link/",
            "isHost" : "true"
 		}, {
-			"name": "Televisiondeporte",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Teledeporte",
+			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
 			"url": "https://www.rtve.es/directo/teledeporte/",
 			"isHost": "true"
 		}, {
-			"name": "Coche 1",
-            "image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
+			"name": "M-F1",
+			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			      "url": "https://daddylivehd.com/mylivetv/stream-537.php",
                "referer": "https://www.freeshot.live/",
 			"isHost": "true"
                  }, {
-			"name": "Coche 1",
-            "image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
+			"name": "M-F1",
+			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			      "url": "https://starlive.xyz/embed.php?id=liveF1_ES",
 			"embed": "true"
         }, {
-			"name": "El-sport 1",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Euro-Sport 1",
+			"image": "https://i.ibb.co/9pck97R/eurosport-1.jpg",
          "url": "https://www.freeshot.live/live-tv/eurosport-1-es/156",
 			  "isHost": "true"
 		}, {
-			"name": "El-sport 1",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Euro-Sport 1",
+			"image": "https://i.ibb.co/9pck97R/eurosport-1.jpg",
                     "url" : "https://sportskart.click/embed/stream-524.php",
              "isHost": "true"
         }, {
-			"name": "El-sport 2",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Euro-Sport 2",
+			"image": "https://i.ibb.co/3MFzmQz/eurosport-2.jpg",
 			"url" : "https://sportskart.click/embed/stream-525.php",
              "isHost": "true"
 		}, {
-			"name": "El-sport 2",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Euro-Sport 2",
+			"image": "https://i.ibb.co/3MFzmQz/eurosport-2.jpg",
 			  "url": "http://726426250506290351.opword.xyz:80/play/vi914676/9560732625/290351.ts",
             "userAgent": ""
 		   }, {
 			"name": "M-Golf",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/VxjDWBr/Golf.jpg",
 			  "url": "https://sportskart.click/embed/stream-528.php",
                   "isHost": "true"
                 }, {
 			"name": "M-Golf",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://i.ibb.co/VxjDWBr/Golf.jpg",
 			"url" : "http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/135992",
            "userAgent" : ""
                         }, {
@@ -1630,33 +1631,33 @@
 			"userAgent": ""
 			}, {
 			"name": "Cuernos Madrid",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
         "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
 			"userAgent": ""     
          }, {
-			"name": "Barcelona en la TV",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Barça TV",
+			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
 			 "url": "http://154.62.74.29:1935/live/barza/chunklist.m3u8",
              "userAgent": ""     
 		}, {
-			"name": "Barcelona en la TV",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"name": "Barça TV",
+			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
 			 "url": "https://sportskart.click/embed/stream-522.php",
              "isHost": "true"
 		}, {
 			"name": "Real MAdrid en la TV",
 			"userAgent": "",
 			"url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg"
+			"image": "https://i.ibb.co/SySS6Yj/Real-Madrid.gif"
 		}, {
 			"name": "Real Betis en la TV",
-			"url": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"url": "https://www.realbetisbalompie.es/rtvbetis/directo-tv/",
 			"image": "https://www.neeo.es/wp-content/uploads/2017/06/Betis-TV.jpg",
 			"isHost": "true"
                      }, {
-			"name": "Esport la 3",
+			"name": "Esport 3",
 			"url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"image": "https://statics.ccma.cat/multimedia/jpg/6/9/1521552830896.jpg",
 			"userAgent": ""
                       },{
                     "name": "ESPN-Argentina HD",
@@ -1716,6 +1717,11 @@
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
 			"url": "http://168.194.171.33:8000/play/a01b/index.m3u8",
               "userAgent": ""
+                                }, {
+			"name": "TUDN",
+			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
+			"url":"http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29669",
+	                "userAgent": ""
            }, {
 			"name": "DirecTV Sports",
 			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
