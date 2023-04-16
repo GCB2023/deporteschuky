@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 15-04-2023)",
+    "author": "chuky (Actualizada al 16-04-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "Chukycine",
@@ -19,22 +19,22 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Philadelphia 76ers vs Brooklyn Nets",
+			"name": "Memphis Grizzlies vs Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Boston Celtics vs Atlanta Hawks",
+                        "name": "Milwaukee Bucks vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
                }, {  
-                        "name": "Cleveland Cavaliers vs New York Knicks",
+                        "name": "Phoenix Suns vs Los Angeles Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Sacramento Kings vs Golden State Warriors",
+                        "name": "Denver Nuggets vs Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
@@ -104,24 +104,24 @@
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                }, {
-			"name": "Philadelphia 76ers vs Brooklyn Nets",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba1.php",
-			"isHost": "true"
-                 }, {  
-                        "name": "Boston Celtics vs Atlanta Hawks",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba1.php",
-			"isHost": "true"
-               }, {  
-                        "name": "Cleveland Cavaliers vs New York Knicks",
-			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url" : "http://sportsurge.stream/embed/nba1.php",
-			"isHost": "true"
-               }, {  
-                        "name": "Sacramento Kings vs Golden State Warriors",
+			"name": "Memphis Grizzlies vs Los Angeles Lakers",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url" : "http://sportsurge.stream/embed/nba2.php",
+			"isHost": "true"
+                 }, {  
+                        "name": "Milwaukee Bucks vs Miami Heat",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba1.php",
+			"isHost": "true"
+               }, {  
+                        "name": "Phoenix Suns vs Los Angeles Clippers",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba1.php",
+			"isHost": "true"
+               }, {  
+                        "name": "Denver Nuggets vs Minnesota Timberwolves",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url" : "http://sportsurge.stream/embed/nba1.php",
 			"isHost": "true"
               }, {
 			"name": "",
@@ -633,7 +633,7 @@
                        }, {
                     "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
-			    "url": "https://vikistream.com/embed2.php?player=desktop&live=do27",
+			    "url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	               }, {
@@ -834,23 +834,23 @@
 			"userAgent": "navigator"
                      }, {
 			"name": "Carrera al sprint Argentina",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
               "url": "https://upstream.to/fditwey0kgy1",
              "isHost": "true"
                       }, {
 			"name": "Carrera Moto Argentina diferido",
-			"image": "https://cdn5.dibujos.net/dibujos/pintados/202145/moto-gp-vehiculos-otros-12395328.jpg",
+			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
               "url": "https://upstream.to/gebo7cyu3b88",
              "isHost": "true"
 	             }, {
 			"name": "Manujaz MotoRSport MOTO (Android)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd53.mycdn.me/hls/3906331740698.m3u8/sig/5-r8w_Dql5I/expires/1679916254238/srcIp/37.14.131.253/urls/185.226.52.66/clientType/13/srcAg/CHROME_ANDROID/mid/4787679865626/3906331740698_fullhd/index.m3u8",
+"url":"https://vkvsd97.mycdn.me/hls/4109330942490.m3u8/sig/1qYJepIWpWg/expires/1681740653187/srcIp/37.14.131.253/urls/45.136.21.39/clientType/13/srcAg/CHROME_ANDROID/mid/4961171811098/4109330942490_fullhd/index.m3u8",
                        "userAgentet" : " "
                       }, {
 			"name": "Manujaz MotoRSport MOTO (IOS)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-"url":"https://vkvsd76.mycdn.me/hls/3906331740698.m3u8/sig/DJw42q3SFnI/expires/1679916205113/srcIp/37.14.131.253/urls/185.226.53.66/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4787679865626/3906331740698_fullhd/index.m3u8",
+"url":"https://vkvsd97.mycdn.me/hls/4109330942490.m3u8/sig/Zt00n0387H0/expires/1681740580934/srcIp/37.14.131.253/urls/45.136.21.39/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4961171811098/4109330942490_fullhd/index.m3u8",
                        "userAgentet" : " "
 	             }, {
 			"name": "Moto",
@@ -883,7 +883,7 @@
           }, {
 			"name": "Moto (inglés)",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
-			"url": "https://headlines.soccerstreams.football/sat-Coche-australian-2023/",
+			"url": "https://embx210132.apl229.me/player/live.php?id=210132&w=100%&h=100%",
 			 "isHost":"true"
 		 }, {
 			"name": "Moto (Inglés)",
@@ -931,25 +931,25 @@
 			"referer": "https://bahiadeportes.com/",
 			"isHost" : "true"
 		 }, {
-			"name": "(M-Campeones 2)",
+			"name": "Union Berlin vs Bochum(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones 2)",
+			"name": "Union Berlin vs Bochum(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
 	      }, {
-			"name": "(M-Campeones 2)",
+			"name": "Wolfsburg vs Bayer Leverkusen(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones 2)",
+			"name": "Wolfsburg vs Bayer Leverkusen(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
             "referer" : "https://macron.xyz/",
@@ -1035,24 +1035,24 @@
 			    "url":"https://sportskart.click/embed/stream-445.php",
             "isHost" : "true"
                 }, {
-			"name": "(DANZAN 2)",
+			"name": "West Ham United vs Arsenal(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			   "url":"https://sportskart.click/embed/stream-446.php",
             "isHost" : "true"
             }, {
-			"name": "(DANZAN 2)",
+			"name": "West Ham United vs Arsenal(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
                 }, {
-			"name": "(DANZAN 2)",
+			"name": "Nottingham Forest vs Manchester United(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
- 			   "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+ 			   "url": "https://vikistream.com/embed2.php?player=desktop&live=do24",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
             }, {
-			"name": "(DANZAN 2)",
+			"name": "Nottingham Forest vs Manchester United(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://macron.xyz/",
@@ -1105,13 +1105,13 @@
               "referer": "https://1l1l.to/",
              "isHost": "true"
                      }, {
-			"name": "Manchester City vs Leicester City(Extranjero)",
+			"name": "(Extranjero)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
       "url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
                        }, {
-			"name": "Manchester City vs Leicester City(Extranjero)",
+			"name": "Nottingham Forest vs Manchester United(Extranjero)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do24",
 			"referer": "https://l1l1.to/",
@@ -1122,25 +1122,25 @@
 		"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 		"info": "",
 		"stations": [{
- 			"name": "Rennes vs Reims",
+ 			"name": "Monaco vs Lorient",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, {
-			"name": "Rennes vs Reims",
+			"name": "Monaco vs Lorient",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
         }, {
-			"name": "PSG vs Lens",
+			"name": "Marseille vs Troyes",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": "PSG vs Lens",
+			"name": "Marseille vs Troyes",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			   "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
@@ -1205,24 +1205,24 @@
 		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 		"info": "",
 		"stations": [{
- 			"name": " Inter Milan vs Monza(M-Vamos)",
+ 			"name": "(M-Vamos)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://parsimoniousinvincible.net/embed/rq4g6",
               "referer" : "https://streamonsport.ru/",
             "isHost":"true"
 		}, {
-			"name": " Inter Milan vs Monza(M-Vamos)",
+			"name": "(M-Vamos)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://sportskart.click/embed/stream-521.php",
 			"isHost" : "true"
         }, {
-			"name":"Napoli vs Verona(M-Campeones)",
+			"name":"Sassuolo vs Juventus(M-Campeones)",
                       "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
                        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
                       "isHost": "true"
 		}, {
-			"name": "Napoli vs Verona(M-Campeones)",
+			"name": "Sassuolo vs Juventus(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
@@ -1297,7 +1297,7 @@
 			"referer": "https://streamonsport44.buzz/",
              "isHost": "true"
                   }, {
-			"name": "",
+			"name": "Roma vs Udinese",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
      "url": "https://vikistream.com/embed2.php?player=desktop&live=do6",
 			"referer": "https://l1l1.to/",
@@ -1362,10 +1362,10 @@
 		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 		"info": "",
 		"stations": [{
-		 "name": "",
+		 "name": "Ternana - Pisa",
 			"image": 
 "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
-			"url":"https://starlive.xyz/embed.php?id=liveCh18",
+			"url":"https://starlive.xyz/embed.php?id=liveCh11",
             "embed" : "true"
 		  }, {
               "name": "",
