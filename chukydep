@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 16-04-2023)",
+    "author": "chuky (Actualizada al 18-04-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "Chukycine",
@@ -19,12 +19,12 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Memphis Grizzlies vs Los Angeles Lakers",
+			"name": "Boston Celtics vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "Milwaukee Bucks vs Miami Heat",
+                        "name": "Cleveland Cavaliers vs New York Knicks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
@@ -34,7 +34,7 @@
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Denver Nuggets vs Minnesota Timberwolves",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
@@ -104,12 +104,12 @@
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                }, {
-			"name": "Memphis Grizzlies vs Los Angeles Lakers",
+			"name": "Boston Celtics vs Atlanta Hawks",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url" : "http://sportsurge.stream/embed/nba2.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Milwaukee Bucks vs Miami Heat",
+                        "name": "Cleveland Cavaliers vs New York Knicks",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url" : "http://sportsurge.stream/embed/nba1.php",
 			"isHost": "true"
@@ -119,7 +119,7 @@
 			"url" : "http://sportsurge.stream/embed/nba1.php",
 			"isHost": "true"
                }, {  
-                        "name": "Denver Nuggets vs Minnesota Timberwolves",
+                        "name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url" : "http://sportsurge.stream/embed/nba1.php",
 			"isHost": "true"
@@ -269,22 +269,22 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Sabres - Blue Jackets",
+                        "name": "Rangers - Devils",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Avalanche - Predators",
+                        "name": "Lightning - Maple Leafs",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Jets - Golden Knights",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Kraken - Avalanche",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-4/",
 			"isHost": "true"
@@ -544,6 +544,64 @@
                                "referer": "https://sportz.football/",
                   "isHost": "true"
                    }]
+                        }, {
+		"name": "Eventos deportivos mix (Los Champiñones League)",
+		"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+		"info": "",
+		"stations": [{
+			"name": "Chelsea vs Real Madrid",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+     "url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+			"referer": "https://elixx.xyz/",
+			"isHost": "true"
+                       }, {
+			"name": "Chelsea vs Real Madrid",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+           			       "url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+                               "referer": "https://buzztv.futbol/",
+                  "isHost": "true"
+                       }, {
+			"name": "Chelsea vs Real Madrid",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+		      "url": "https://emb.apl214.me/player/live.php?id=210385&w=100%&h=100%",
+             "isHost": "true" 
+                     }, {
+			"name": "Chelsea vs Real Madrid",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+		      "url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
+                               "referer": "https://sportz.football/",
+                  "isHost": "true"
+                     }, {
+			"name": "Chelsea vs Real Madrid",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+		      "url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                     }, {
+			"name": "Napoli vs Milan",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+			  "url": "https://vikistream.com/embed2.php?player=desktop&live=do19",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
+                     
+                    }, {
+			"name": "Napoli vs Milan",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+			 "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
+			"referer": "https://streamonsport.ru/",
+             "isHost": "true"
+           }, {
+			"name": "Napoli vs Milan",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+          "url": "https://coolcast2.com/embed.php?player=desktop&live=espn2sur",
+             "referer": "https://tucanaldeportivo.com/",
+             "isHost": "true"
+               }, {
+			"name": "Napoli vs Milan",
+			"image": "https://img.freepik.com/vector-premium/dibujos-animados-cabeza-hongo-jugando-vector-caracteres-ilustracion-futbol_193274-41759.jpg",
+         "url": "http://sportsurge.stream/embed/footy2.php",
+             "isHost": "true"
+                   }]
                       },{
             "name": "La de España de Baloncesto",
             "image": "https://static.vecteezy.com/system/resources/previews/012/996/702/original/sport-ball-basketball-png.png",
@@ -551,7 +609,7 @@
             "stations": [{
 	         "name": "Opción 1(M-Deportes)",
                     "image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
-                "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
+                "url": "https://voraciousglove.net/embed/cmms5rk1",
 	        "referer" : "https://macron.xyz/",
                   "isHost": "true"
                 },{ 
