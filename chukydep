@@ -872,12 +872,12 @@
 			  }, {
           "name": "Manujaz MotoRSport WRC (iPhone)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-			  "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd163.mycdn.me/hls/4165999921690.m3u8/sig/Ti_dzCA5aDQ/expires/1682228257385/srcIp/37.14.131.253/urls/45.136.21.82/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/5009438812954/4165999921690_fullhd/index.m3u8",
+			  "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd18.mycdn.me/hls/4168990788122.m3u8/sig/hcs59hRL6Xg/expires/1682250809717/srcIp/37.14.131.253/urls/45.136.20.34/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/5011855125274/4168990788122_fullhd/index.m3u8",
                        "userAgent" : " "
                          }, {
           "name": "Manujaz MotoRSport WRC (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-			  "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd77.mycdn.me/hls/4165999921690.m3u8/sig/fw_w1NFnjqQ/expires/1682228239914/srcIp/37.14.131.253/urls/45.136.20.79/clientType/13/srcAg/CHROME_ANDROID/mid/5009438812954/4165999921690_fullhd/index.m3u8",
+			  "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd82.mycdn.me/hls/4168990788122.m3u8/sig/p4Vmx6lRpwc/expires/1682250853989/srcIp/37.14.131.253/urls/185.226.53.51/clientType/13/srcAg/CHROME_ANDROID/mid/5011855125274/4168990788122_fullhd/index.m3u8",
                             "userAgent" : " "
                              }, {
           "name": "Manujaz MotoRSport NASCAR",
@@ -1759,6 +1759,11 @@
 			"name": "Cuernos",
 			"image": "https://i.pinimg.com/550x/b3/70/61/b370611b24bad7b5bc2c5915bbae4ec0.jpg",
       "url": "http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8",
+			"userAgent": ""
+                       }, {
+			"name": "Cazar y Pescar",
+			"image": "https://sobrehistoria.com/wp-content/uploads/2014/09/Pinturas-cazadores-600x480.jpg",
+      "url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323601.m3u8",
 			"userAgent": ""
 			}, {
 			"name": "Cuernos Madrid",
