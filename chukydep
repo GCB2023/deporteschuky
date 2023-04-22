@@ -870,15 +870,15 @@
 			 "url" : "https://upstream.to/2rc9ml0f9y9o",
 			"userAgent": "true"  
 			  }, {
+          "name": "Manujaz MotoRSport WRC (iPhone)",
+			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
+			  "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd163.mycdn.me/hls/4165999921690.m3u8/sig/Ti_dzCA5aDQ/expires/1682228257385/srcIp/37.14.131.253/urls/45.136.21.82/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/5009438812954/4165999921690_fullhd/index.m3u8",
+                       "userAgent" : " "
+                         }, {
           "name": "Manujaz MotoRSport WRC (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-			  "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd60.mycdn.me/hls/4155888699930.m3u8/sig/shlT8lIR0U0/expires/1682142774481/srcIp/37.14.131.253/urls/45.136.21.62/clientType/13/srcAg/CHROME_ANDROID/mid/5001056627482/4155888699930_fullhd/index.m3u8",
-                          "userAgent" : " "
-                         }, {
-          "name": "Manujaz MotoRSport WRC (Iphone)",
-			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-			  "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd45.mycdn.me/hls/4155888699930.m3u8/sig/srbeifZg44U/expires/1682142713248/srcIp/37.14.131.253/urls/185.226.53.47/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/5001056627482/4155888699930_fullhd/index.m3u8",
-                           "userAgent" : " "
+			  "url": "https://s@daddy.yurendtv.biz.id/https://vkvsd77.mycdn.me/hls/4165999921690.m3u8/sig/fw_w1NFnjqQ/expires/1682228239914/srcIp/37.14.131.253/urls/45.136.20.79/clientType/13/srcAg/CHROME_ANDROID/mid/5009438812954/4165999921690_fullhd/index.m3u8",
+                            "userAgent" : " "
                              }, {
           "name": "Manujaz MotoRSport NASCAR",
 			"image": "https://i.ibb.co/z8yPmxP/manu-nascar.jpg",
