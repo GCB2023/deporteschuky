@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 28-04-2023)",
+    "author": "chuky (Actualizada al 29-04-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "Chukycine",
@@ -692,8 +692,8 @@
                 },{
                  "name": "Opción 3(M-Vamos)",
                     "image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
-               "url" : "https://embx211012.apl217.me/player/live.php?id=211012&w=100%&h=100%",
-             "isHost":"true"
+               "url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323624.m3u8",
+			"userAgent": ""
                     },{ 
                  "name": "Opción 4(M-Vamos)",
                     "image": "https://i.ibb.co/FYK4TSS/vamos.jpg",
@@ -905,14 +905,19 @@
               }, {
           "name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-			       "url": "https://vikistream.com/embed2.php?player=desktop&live=do6",
+			       "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"   
+                      }, {
+          "name": "M-F1",
+			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
+			       "url": "https://unbiasedsenseevent.com/embed/p7uf4et6n5s8o0",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
 	     }, {
                   	"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-                  			      "url": "https://daddylivehd.com/mylivetv/stream-537.php",
-               "referer": "https://www.freeshot.live/",
+                        "url": "https://sportskart.click/embed/stream-537.php",
 			"isHost": "true"
 		}, {
                   	"name": "M-F1",
@@ -930,12 +935,7 @@
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
 			"url": "https://tvhd.capshd.xyz/online/DANZANf1.php",
             "referer" : "https://www.daddylive.pro/",
-			 "isHost":"true"
-                    }, {   
-			"name": "M-F1",
-			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-              "url": "https://watchtvchh.xyz/channel/ch018001.php", 
-			 "isHost":"true"  	 
+			 "isHost":"true"	 
                }, {   
 			"name": "M-F1",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
@@ -946,7 +946,12 @@
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
                   	"url" : "https://unbiasedsenseevent.com/embed/phsheh97kpcdvc2",
             "referer": "https://buzztv.futbol/",
-			"isHost": "true"	 
+			"isHost": "true"
+                  }, {
+                  	"name": "M-F1",
+			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
+                  	"url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323625.m3u8",
+			"userAgent": ""	 
         }, {
 			"name": "M-F1-Inglés",
 			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
@@ -1004,7 +1009,8 @@
 	              }, {
 			"name": "Moto",
 			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
-             "url" : "https://web.ucplayer1.com/bff3gbgfff",
+             "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
+			"referer": "https://l1l1.to/",
              "isHost": "true"
           }, {
 			"name": "Moto (inglés)",
@@ -1034,13 +1040,13 @@
 			    "url" : "https://sportskart.click/embed/stream-521.php",
                           "isHost":"true"
             }, {
-			"name": "Bochum vs Borussia Dortmund(M-Campeones)",
+			"name": "Union Berlin vs Bayer Leverkusen(M-Campeones)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
-			"name": "Bochum vs Borussia Dortmund(M-Campeones)",
+			"name": "Union Berlin vs Bayer Leverkusen(M-Campeones)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
@@ -1057,25 +1063,25 @@
 			"referer": "https://bahiadeportes.com/",
 			"isHost" : "true"
 		 }, {
-			"name": "(M-Campeones 2)",
+			"name": "RB Leipzig vs Hoffenheim(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones 2)",
+			"name": "RB Leipzig vs Hoffenheim(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
 	      }, {
-			"name": "(M-Campeones 2)",
+			"name": "Schalke 04 vs Werder Bremen(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
         "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones 2)",
+			"name": "Schalke 04 vs Werder Bremen(M-Campeones 2)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
             "referer" : "https://macron.xyz/",
@@ -1093,21 +1099,21 @@
 			"referer": "https://macron.xyz/",
 			"isHost" : "true"
              }, {
-			"name": "",
+			"name": "Eintracht Frankfurt vs Augsburg",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
-        "url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+        "url": "https://vikistream.com/embed2.php?player=desktop&live=do16",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
           }, {
-			"name": "",
+			"name": "Stuttgart vs Borussia M'gladbach",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do12",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
 	   }, {
-			"name": "",
+			"name": "Schalke 04 vs Werder Bremen",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
           }, {
@@ -1117,7 +1123,7 @@
             "referer" : "https://l1l1.to/",
              "isHost": "true"
            }, {
-			"name": "",
+			"name": "Cologne vs Freiburg",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
             "referer" : "https://l1l1.to/",
@@ -1161,37 +1167,37 @@
 			    "url":"https://sportskart.click/embed/stream-445.php",
             "isHost" : "true"
                 }, {
-			"name": "(DANZAN 2)",
+			"name": "Crystal Palace vs West Ham United(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			   "url":"https://sportskart.click/embed/stream-446.php",
             "isHost" : "true"
             }, {
-			"name": "(DANZAN 2)",
+			"name": "Crystal Palace vs West Ham United(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
                 }, {
-			"name": "(DANZAN 2)",
+			"name": "Brighton & Hove Albion vs Wolverhampton Wanderers(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
- 			   "url": "https://vikistream.com/embed2.php?player=desktop&live=do24",
+ 			   "url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
             }, {
-			"name": "(DANZAN 2)",
+			"name": "Brighton & Hove Albion vs Wolverhampton Wanderers(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 	      
                 }, {
-			"name": "(DANZAN 3)",
+			"name": "Brentford vs Nottingham Forest(DANZAN 3)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
             "referer" : "https://macron.xyz/",
             "isHost":"true"
 	       }, {
- 			"name": "(DANZAN 3)",
+ 			"name": "Brentford vs Nottingham Forest(DANZAN 3)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			  "urs" : "https://sportskart.click/embed/stream-447.php",
 			"isHost" : "true"
@@ -1248,13 +1254,13 @@
 		"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 		"info": "",
 		"stations": [{
- 			"name": "Strasbourg vs Lyon",
+ 			"name": "Lille vs Ajaccio",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, {
-			"name": "Strasbourg vs Lyon",
+			"name": "Lille vs Ajaccio",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
@@ -1342,24 +1348,24 @@
 			 "url": "https://sportskart.click/embed/stream-521.php",
 			"isHost" : "true"
         }, {
-			"name":"Atalanta - AS Rome(M-Campeones)",
+			"name":"Roma vs AC Milan(M-Campeones)",
                       "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
                        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
                       "isHost": "true"
 		}, {
-			"name": "Atalanta - AS Rome(M-Campeones)",
+			"name": "Roma vs AC Milan(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
                     }, {
-			"name": "(M-Campeones)",
+			"name": "Torino vs Atalanta(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
             "isHost": "true"  
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Torino vs Atalanta(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			  "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
@@ -1423,25 +1429,25 @@
 			"referer": "https://streamonsport44.buzz/",
              "isHost": "true"
                   }, {
-			"name": "Lecce vs Udinese",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
      "url": "https://vikistream.com/embed2.php?player=desktop&live=do4",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": "Lecce vs Udinese",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	        }, {
-			"name": "Spezia vs Monza",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do7",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
-			"name": "Spezia vs Monza",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
 			 "referer" : "https://elixx.xyz/",
@@ -1607,7 +1613,7 @@
                    },{
                  "name": "La de España (opción 6)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-         "url": "https://starlive.xyz/embed.php?id=livebeinMAX7",
+         "url": "https://starlive.xyz/embed.php?id=liveLiga",
 			"embed" : "true"
                   },{
                  "name": "La de España (opción 7)",
@@ -1739,8 +1745,8 @@
                 }, {
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/VxjDWBr/Golf.jpg",
-			"url" : "http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/135992",
-           "userAgent" : ""
+			"url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323627.m3u8",
+			"userAgent": ""	
                         }, {
 			 "name": "Cuernos",
 			"image": "https://i.pinimg.com/550x/b3/70/61/b370611b24bad7b5bc2c5915bbae4ec0.jpg",
