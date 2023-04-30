@@ -755,6 +755,12 @@
                     "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
 			 "url": "https://emb.apl230.me/player/live.php?id=210571&w=100%&h=100%",
 			"isHost" : "true" 
+                          }, {
+                    "name": "DANZAN La de España",
+                    "image": "https://i.ibb.co/NNHfn7m/Dazan-liga.jpg",
+			      "url": "https://wecast.to/badir1.php?stream=7ewaSvmPz0Bs",
+               "referer" : "https://soccerstream100.co/",
+			 "isHost": "true" 
                         }, {
                  "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
@@ -1613,8 +1619,9 @@
                    },{
                  "name": "La de España (opción 6)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
-         "url": "https://starlive.xyz/embed.php?id=liveLiga",
-			"embed" : "true"
+             "url": "https://5fpgy2l.ytxqwwrd8silogw.sbs/badir1/7ewaSvmPz0Bs",
+               "referer" : "https://soccerstream100.co/",
+			 "isHost": "true"
                   },{
                  "name": "La de España (opción 7)",
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
@@ -1681,8 +1688,9 @@
 			  }, {  
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
-			 "url": "https://sportskart.click/embed/stream-436.php",
-                  "isHost": "true"
+			     "url": "https://5fpgy2l.ytxqwwrd8silogw.sbs/badir1/KAXb3KX2NJiK",
+               "referer" : "https://soccerstream100.co/",
+			 "isHost": "true"
         }, {
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/j5FjkGX/Deportes.jpg",
@@ -2009,10 +2017,11 @@
                 "url" : "https://sportskart.click/embed/stream-437.php",
 			 "ishost" : "true"  
 			 }, {
-                           "name": "Canal pruebas",
+                           "name": "Canal 0#",
 			 "image": "https://www.trucosgalaxy.net/wp-content/uploads/2017/08/sin-servicio-celular.jpg",
-              "url" : "http://185.233.16.151:8000/play/Compra05/68644862/165418.ts?token=H0EMV0RQRl8UA1wMUVsDWlJVUAMAAlYCAgBVCQFZAAZQW1EPB10CVVVDFRZAFkBdBw48WFASDVUDAlIJWxQXRhcGFmleXEZfFFAKBgJWBxpKQRdYWVUVXgQBXghWAA0DUFZIFEdRAEcMQwwDAVQAGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFgkMR1QKT0FSW0VZEEdORAJBfWYRSEEBTkNdChZfDlcWCUBGS0RPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBkQUQVVaXQ0XC0RoSA0BFFsbAQRTBAtEHg==",
-             "userAgent" : ""  
+                 "url": "https://wecazt.com/badir1/hIER0xdlRlY",
+               "referer" : "https://soccerstream100.co/",
+			 "isHost": "true"
 		}]
 	}]
 }
