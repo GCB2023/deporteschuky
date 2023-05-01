@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 30-04-2023)",
+    "author": "chuky (Actualizada al 01-04-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -871,9 +871,9 @@
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
 		"stations": [{
-              "name": "Coche 1 GP Australia diferido.",
-			"image": "https://w7.pngwing.com/pngs/959/532/png-transparent-car-formula-1-drawing-ink-boat-racing-car-vehicle.png",
-			 "url" : "https://upstream.to/2rc9ml0f9y9o",
+              "name": "Coche 1 GP Bakú diferido.",
+			"image": "https://www.gpticketshop.com/public/images/maps/f1.bak.png?temp=notneededanymore&fileversion=20230430x838640e0d89acc36afc6fd353a3c86ff450e3c7d",
+			 "url" : "https://upstream.to/4cht5yb5pxe6",
 			"userAgent": "true"  
 			  }, {
           "name": "Manujaz MotoRSport WRC (iPhone)",
@@ -981,9 +981,9 @@
               "url": "https://upstream.to/fditwey0kgy1",
              "isHost": "true"
                       }, {
-			"name": "Carrera Moto Argentina diferido",
-			"image": "https://st.depositphotos.com/1068095/5153/i/450/depositphotos_51533337-stock-photo-motorbike-racing.jpg",
-              "url": "https://upstream.to/gebo7cyu3b88",
+			"name": "Carrera Moto Jerez diferido",
+			"image": "https://www.motogpespanya.com/files/CircuitoDeJerez_map_Q5.jpg",
+              "url": "https://upstream.to/cwsgjoxj59i4",
              "isHost": "true"
 	             }, {
 			"name": "Manujaz MotoRSport MOTO (Android)",
