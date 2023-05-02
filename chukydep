@@ -1,6 +1,6 @@
 {
 	"name": "ChukyHood",
-    "author": "chuky (Actualizada al 01-05-2023)",
+    "author": "chuky (Actualizada al 02-05-2023)",
     "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -24,7 +24,7 @@
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
                  }, {  
-                        "name": "",
+                        "name": "Golden State Warriors vs Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
@@ -109,7 +109,7 @@
 			"url" : "http://sportsurge.stream/embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "",
+                        "name": "Golden State Warriors vs Los Angeles Lakers",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url" : "http://sportsurge.stream/embed/nba1.php",
 			"isHost": "true"
@@ -269,17 +269,17 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Bruins - Panthers",
+                        "name": "Panthers - Maple Leafs",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-1/",
 			"isHost": "true"
                }, {  
-                        "name": "Avalanche - Kraken",
+                        "name": "Kraken - Stars",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-2/",
 			"isHost": "true"
               }, {
-			"name": "Devils - Rangers",
+			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 			"url" : "http://markkystreams.com/video/nhl-3/",
 			"isHost": "true"
@@ -354,77 +354,77 @@
             "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-                        "name": "Royals - Twins",
+                        "name": "Pirates - Rays",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-01/",
 			"isHost": "true"
                }, {  
-                        "name": "Cubs - Marlins",
+                        "name": "Mets - Tigers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-02/",
 			"isHost": "true"
               }, {
-			"name": "Orioles - Tigers",
+			"name": "Braves - Marlins",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-03/",
 			"isHost": "true"
              }, {
-			"name": "Pirates - Nationals",
+			"name": "Cubs - Nationals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-04/",
 			"isHost": "true"
               }, {  
-                         "name": "Mariners - Blue Jays",
+                         "name": "Guardians - Yankees",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-05/",
 			"isHost": "true"
               }, {
-			"name": "Guardians - Red Sox",
+			"name": "Blue Jays - Red Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-06/",
 			"isHost": "true"
              }, {
-			"name": "Rays - White Sox",
+			"name": "Twins - White Sox",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-07/",
 			"isHost": "true"
              }, {
-			"name": "Braves - Mets",
+			"name": "Orioles - Royals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-08/",
 			"isHost": "true"
               }, {
-			"name": "Yankees - Rangers",
+			"name": "Angels - Cardinals",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-09/",
 			"isHost": "true"
                }, {
-			"name": "Phillies - Astros",
+			"name": "Diamondbacks - Rangers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-10/",
 			"isHost": "true"
                }, {
-			"name": "Angels - Brewers",
+			"name": "Giants - Astros",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-11/",
 			"isHost": "true"
                  }, {
-			"name": "Diamondbacks - Rockies",
+			"name": "Brewers - Rockies",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-12/",
 			"isHost": "true"  
 			}, {
-			"name": "Reds - Athletics",
+			"name": "Mariners - Athletics",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-13/",
 			"isHost": "true" 
 			 }, { 
-			  "name": "Cardinals - Dodgers",
+			  "name": "Reds - Padres",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-14/",
 			"isHost": "true"
                           }, { 
-			  "name": "",
+			  "name": "Phillies - Dodgers",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
 			"url" : "http://markkystreams.com/video/mlb-15/",
 			"isHost": "true" 
@@ -542,6 +542,17 @@
 			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
 			       "url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
                                "referer": "https://sportz.football/",
+                  "isHost": "true"
+                           }, {
+			"name": "La de España (UD Almeria vs. Elche)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			"url" : "https://parsimoniousinvincible.net/embed/xfkc2i",
+			   "referer" : "https://streamonsport.ru/",
+              "isHost" : "true"
+			 }, {
+			"name": "La de España (UD Almeria vs. Elche)",
+			"image": "https://i.ibb.co/q7shd18/La-liga.jpg",
+			       "url": "https://emb.apl232.me/player/live.php?id=211608&w=100%&h=100%",
                   "isHost": "true"
                    }]
                         }, {
@@ -769,7 +780,7 @@
                        }, {
                     "name": "DANZAN 1",
                     "image": "https://i.ibb.co/7vhkyWt/Dazan-1.jpg",
-			    "url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
+			    "url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 	               }, {
@@ -1041,13 +1052,13 @@
 		"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 		"info": "",
 		"stations": [{
-			"name": "Bayern Munchen vs Hertha BSC(M-Vamos)",
+			"name": "(M-Vamos)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			     "url": "https://parsimoniousinvincible.net/embed/rq4g6",
 			 "referer":"https://macron.xyz/",
                     "isHost":"true"
             }, {
-			"name": "Bayern Munchen vs Hertha BSC(M-Vamos)",
+			"name": "(M-Vamos)",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			    "url" : "https://sportskart.click/embed/stream-521.php",
                           "isHost":"true"
@@ -1123,7 +1134,7 @@
 			"referer": "https://l1l1.to/",
              "isHost": "true"   
 	   }, {
-			"name": "Wolfsburg vs Mainz 05",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-alemania-balon-futbol-como-fondo_597133-81.jpg?w=2000",
 			"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
 			"referer": "https://l1l1.to/",
@@ -1179,37 +1190,37 @@
 			    "url":"https://sportskart.click/embed/stream-445.php",
             "isHost" : "true"
                 }, {
-			"name": "Fulham vs Manchester City(DANZAN 2)",
+			"name": "Arsenal vs Chelsea(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			   "url":"https://sportskart.click/embed/stream-446.php",
             "isHost" : "true"
             }, {
-			"name": "Fulham vs Manchester City(DANZAN 2)",
+			"name": "Arsenal vs Chelsea(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
                 }, {
-			"name": "Liverpool vs Tottenham Hotspur(DANZAN 2)",
+			"name": "(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			   "url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
             }, {
-			"name": "Liverpool vs Tottenham Hotspur(DANZAN 2)",
+			"name": "(DANZAN 2)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
 	      
                 }, {
-			"name": "Manchester United vs Aston Villa(DANZAN 3)",
+			"name": "(DANZAN 3)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
  			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
             "referer" : "https://macron.xyz/",
             "isHost":"true"
 	       }, {
- 			"name": "Manchester United vs Aston Villa(DANZAN 3)",
+ 			"name": "(DANZAN 3)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			  "urs" : "https://sportskart.click/embed/stream-447.php",
 			"isHost" : "true"
@@ -1220,13 +1231,13 @@
             "referer" : "https://macron.xyz/",
             "isHost":"true"
                }, {
-			"name": "Newcastle United vs Southampton(DANZAN 4)",
+			"name": "(DANZAN 4)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
 			"url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
 			  }, {
-			"name": "Newcastle United vs Southampton(DANZAN 4)",
+			"name": "(DANZAN 4)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
        "urs" : "https://sportskart.click/embed/stream-448.php",
 			"isHost" : "true"
@@ -1249,9 +1260,9 @@
               "referer": "https://1l1l.to/",
              "isHost": "true"
                      }, {
-			"name": "AFC Bournemouth vs Leeds United(Extranjero)",
+			"name": "Arsenal vs Chelsea(Extranjero)",
 			"image": "https://palabrasdefutboldotcom.files.wordpress.com/2020/12/balon-futbol-inglaterra.jpg",
-      "url": "https://vikistream.com/embed2.php?player=desktop&live=do34",
+      "url": "https://vikistream.com/embed2.php?player=desktop&live=do4",
 			"referer": "https://l1l1.to/",
              "isHost": "true" 
                        }, {
@@ -1266,49 +1277,49 @@
 		"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 		"info": "",
 		"stations": [{
- 			"name": "Monaco vs Montpellier",
+ 			"name": "Toulouse vs Lens",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 		}, {
-			"name": "Monaco vs Montpellier",
+			"name": "Toulouse vs Lens",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do4",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
         }, {
-			"name": "Troyes vs Nice",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do4",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": "Troyes vs Nice",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			   "url": "https://unbiasedsenseevent.com/embed/pbbue32",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
                     }, {
-			"name": "PSG vs Lorient",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
         "url": "https://vikistream.com/embed2.php?player=desktop&live=do4",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": "PSG vs Lorient",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://unbiasedsenseevent.com/embed/ez3sjcbvjr4",
               "referer" : "https://elixx.xyz/",
             "isHost":"true"
 			 }, {
-			"name": "Marseille vs Auxerre",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
        "url": "https://vikistream.com/embed2.php?player=desktop&live=do28",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": "Marseille vs Auxerre",
+			"name": "",
 			"image": "https://img.freepik.com/vector-premium/bandera-francia-balon-futbol-como-fondo_597133-80.jpg?w=2000",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do2",
 			"referer": "https://l1l1.to/",
@@ -1349,35 +1360,35 @@
 		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 		"info": "",
 		"stations": [{
- 			"name": "Inter Milan vs Lazio(M-Vamos)",
+ 			"name": "(M-Vamos)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://parsimoniousinvincible.net/embed/rq4g6",
               "referer" : "https://streamonsport.ru/",
             "isHost":"true"
 		}, {
-			"name": "Inter Milan vs Lazio(M-Vamos)",
+			"name": "(M-Vamos)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://sportskart.click/embed/stream-521.php",
 			"isHost" : "true"
         }, {
-			"name":"Napoli - Salernitana(M-Campeones)",
+			"name":"(M-Campeones)",
                       "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
                        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
                       "isHost": "true"
 		}, {
-			"name": "Napoli - Salernitana(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
                     }, {
-			"name": "Bologna vs Juventus(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
         "url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
             "isHost": "true"  
 		}, {
-			"name": "Bologna vs Juventus(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			  "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
@@ -1441,25 +1452,25 @@
 			"referer": "https://streamonsport44.buzz/",
              "isHost": "true"
                   }, {
-			"name": "Sassuolo vs Empoli",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
      "url": "https://vikistream.com/embed2.php?player=desktop&live=do5",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": "Napoli - Salernitana",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
 	        }, {
-			"name": "Cremonese vs Verona",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do3",
 			"referer": "https://l1l1.to/",
              "isHost": "true"
                 }, {
-			"name": "Fiorentina vs Sampdoria",
+			"name": "",
 			"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71pBdNLPLcL._AC_SY355_.jpg",
 			"url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
 			 "referer" : "https://elixx.xyz/",
